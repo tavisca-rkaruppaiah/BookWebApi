@@ -11,28 +11,35 @@ namespace BookWebApi.Services
         BookDetails bookDetails = new BookDetails();
         public BookResponse Create(Book book)
         {
-            if(Validation.IsContainsLettersOnly(book.name))
+            if(Validation.IsPositiveNumber(book.id))
             {
-                if(Validation.IsContainsLettersOnly(book.category))
+                if (Validation.IsContainsLettersOnly(book.name))
                 {
-                    if(Validation.IsContainsLettersOnly(book.author))
+                    if (Validation.IsContainsLettersOnly(book.category))
                     {
-                        bookDetails.Add(book);
+                        if (Validation.IsContainsLettersOnly(book.author))
+                        {
+                            bookDetails.Add(book);
 
-                        return new BookResponse(book, null);
+                            return new BookResponse(book, null);
+                        }
+                        else
+                            return new BookResponse(null, new Error(100, "book author should contain Letters Only"));
                     }
                     else
-                        return new BookResponse(null, new Error(100, "book author should contain Letters Only"));
+                        return new BookResponse(null, new Error(100, "book category should contain Letters Only"));
+
                 }
                 else
-                    return new BookResponse(null, new Error(100, "book category should contain Letters Only"));
+                {
+                    return new BookResponse(null, new Error(100, "bookname should contain Letters Only"));
+                }
 
             }
             else
             {
-                return new BookResponse(null, new Error(100, "bookname should contain Letters Only"));
+                return new BookResponse(null, new Error(100, "Invalid Id, Id should be a positive number"));
             }
-            
         }
 
         public void Remove(int id)
