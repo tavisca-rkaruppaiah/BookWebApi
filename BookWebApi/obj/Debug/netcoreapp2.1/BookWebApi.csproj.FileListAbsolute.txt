@@ -1,0 +1,14 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\bin\Debug\netcoreapp2.1\BookWebApi.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\bin\Debug\netcoreapp2.1\BookWebApi.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\bin\Debug\netcoreapp2.1\BookWebApi.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\bin\Debug\netcoreapp2.1\BookWebApi.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.RazorAssemblyInfo.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.RazorAssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\bin\Debug\netcoreapp2.1\BookWebApi.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi\obj\Debug\netcoreapp2.1\BookWebApi.pdb

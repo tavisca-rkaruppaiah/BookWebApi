@@ -1,0 +1,17 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\BookWebApi.Tests.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\BookWebApi.Tests.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\BookWebApi.Tests.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\BookWebApi.Tests.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\BookWebApi.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\BookWebApi.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\obj\Debug\netcoreapp2.1\BookWebApi.Tests.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\obj\Debug\netcoreapp2.1\BookWebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\obj\Debug\netcoreapp2.1\BookWebApi.Tests.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\obj\Debug\netcoreapp2.1\BookWebApi.Tests.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\obj\Debug\netcoreapp2.1\BookWebApi.Tests.csproj.CopyComplete
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\bin\Debug\netcoreapp2.1\BookWebApi.Tests.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\obj\Debug\netcoreapp2.1\BookWebApi.Tests.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\WebApiWs\BookWebApi\BookWebApi.Tests\obj\Debug\netcoreapp2.1\BookWebApi.Tests.pdb
